@@ -6,12 +6,9 @@ using sklearn.
 
 ## DATASET:( Briefly analyse and discuss the dataset.)
 
-The dataset has two componenents and they are X and y varia
-ble and they are separate compressed components and I extrac
-ted them using numpy Npz load. And the shape of X is 10000,
-1000 and the shape of y is 10000,1 and y is the target vaeibale 
-of the dataset and X is the data for the model. Here this data w
-as compressed as it was high dimensional and training on this 
+The dataset has two componenents and they are X and y variable and they are separate compressed components and I extracted them using numpy Npz load. And the shape of X is 10000,
+1000 and the shape of y is 10000,1 and y is the target variable 
+of the dataset and X is the data for the model. Here this data was compressed as it was high dimensional and training on this 
 data would take a lot of time and resources.
 
 Step 1:
